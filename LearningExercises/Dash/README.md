@@ -53,6 +53,8 @@ The report will serves to answer the following:
 - **Total Expenditure Share By Vehicle Type During Recessions** - pie chart representing the total advertising expenditure share by vehicle type during recession periods
 - **Effect of Unmployment Rate on Vehicle Type and Sales** - bar chart showing effect of unemployment rate on automobile sales by vehicle type during recession periods.
 
+![Dashboard](AutomobileStatisticsDashboard.gif)
+
 ## Contributing
 
 Dr. Pooja from IBM SkillsNetwork
